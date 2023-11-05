@@ -425,11 +425,11 @@ hr {
 .btn-ans {
   background: #fff;
   position: relative;
-  color: #7b40c0;
+  color: #daad9e;
 }
 .btn-ans::before {
   background: #ec4683;
-  color: #7b40c0;
+  color: #daad9e;
 }
 .btn.focus,
 .btn:focus {
@@ -2550,7 +2550,7 @@ hr {
   right: -17px;
   width: 2px;
   height: 75px;
-  background: #e09513;
+  background: #9c9494;
   transform: translateY(-50%);
 }
 @media (max-width: 767px) {
@@ -3163,7 +3163,7 @@ hr {
   color: #9c9494;
 }
 .footer-bottom-area .footer-copy-right p a {
-  color: #7b40c0;
+  color: #daad9e;
 }
 .footer-bottom-area .footer-copy-right p a:hover {
   color: #9c9494;
